@@ -6,6 +6,12 @@ This project aims to summarize the awesome research progress of AI+bioinformatic
 
 
 
+# News!
+
+**[2022/08/28]** Project begining.
+
+
+
 # Table of Contents
 
 - 
