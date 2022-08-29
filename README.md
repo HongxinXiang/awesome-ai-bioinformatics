@@ -6,7 +6,7 @@ This project aims to summarize the awesome research progress of AI+bioinformatic
 
 
 
-This repository is an ongoing project, and we welcome more collaborators to join us! If you want to become a partner, please [contact us](mailto:xianghx21@gmail.com). If you want to contribute something, please feel free to contribute.
+This repository is an ongoing project, and we welcome more collaborators to join us! If you want to become a partner, please [contact us](mailto:xianghx21@gmail.com). If you want to contribute something, please feel free to [contribute](https://github.com/HongxinXiang/awesome-ai-bioinformatics/CONTRIBUTE.md).
 
 
 
@@ -18,4 +18,12 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 # Table of Contents
 
-- 
+- single-modal learning
+  - molecules
+    - molecular property prediction
+    - molecular conformation generation
+    - molecular generation and optimization
+    - molecular synthesis and retrosynthesis
+    - drug-drug-interaction (DDI)
+    - molecular docking
+- multi-modal learning
