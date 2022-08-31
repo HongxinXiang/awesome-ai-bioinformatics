@@ -1,5 +1,9 @@
 ![image](asset/logo.png)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HongxinXiang/awesome-ai-bioinformatics)
+<a href="https://github.com/HongxinXiang/awesome-ai-bioinformatics/blob/master/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/HongxinXiang/awesome-ai-bioinformatics?style=flat-square">
+</a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HongxinXiang/awesome-ai-bioinformatics?style=flat-square">
 
 
 This project aims to summarize the awesome research progress of AI+bioinformatics (e.g. molecules, proteins, mass spectrum, genes) from the perspective of computer science majors. Computer scientists tend to focus on data, tasks, and algorithms. Therefore, we use the logic of `data->task->algorithm` to summarize. 
