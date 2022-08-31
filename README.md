@@ -1,4 +1,4 @@
-![image](https://github.com/HongxinXiang/awesome-ai-bioinformatics/blob/master/asset/logo.png)
+![image](asset/logo.png)
 
 
 
@@ -20,10 +20,17 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 - single-modal learning
   - molecules
-    - molecular property prediction
+    - [molecular property prediction](#molecular-property-prediction)
     - molecular conformation generation
     - molecular generation and optimization
     - molecular synthesis and retrosynthesis
     - drug-drug-interaction (DDI)
     - molecular docking
 - multi-modal learning
+
+
+# single-modal learning
+
+## molecules
+
+### molecular property prediction
