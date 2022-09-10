@@ -39,3 +39,5 @@ This repository is an ongoing project, and we welcome more collaborators to join
 ## molecules
 
 ### molecular property prediction
+
+![Alt](./chapters/single-modal-learning/molecules/molecular-property-prediction/mindmap-mpp.png)
