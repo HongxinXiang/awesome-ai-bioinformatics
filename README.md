@@ -44,18 +44,3 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-property-prediction)
 
-
-
-**SMILES-based**
-
-
-
-
-
-**Graph-based**
-
-
-
-
-
-**Image-based**
