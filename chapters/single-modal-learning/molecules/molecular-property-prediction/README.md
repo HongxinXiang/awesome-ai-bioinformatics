@@ -1,3 +1,31 @@
+# Benchmark datasets
+
+## Classification task
+
+| Dataset | # Molecules | # Tasks |
+| ------- | ----------- | ------- |
+| BBBP    | 2039        | 1       |
+| Tox21   | 7831        | 12      |
+| ClinTox | 1478        | 2       |
+| HIV     | 41127       | 1       |
+| BACE    | 1513        | 1       |
+| SIDER   | 1427        | 27      |
+| MUV     | 93087       | 17      |
+| ToxCast | 8575        | 617     |
+
+## Regression task
+
+| Dataset       | # Molecules | # Tasks |
+| ------------- | ----------- | ------- |
+| ESOL          | 1128        | 1       |
+| FreeSolv      | 642         | 1       |
+| Lipophilicity | 4200        | 1       |
+| QM7           | 6830        | 1       |
+| QM8           | 21786       | 12      |
+| QM9           | 133885      | 8       |
+
+
+
 # 1. Single-view learning
 
 ## 1.1 Traditional fingerprint-based
