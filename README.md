@@ -16,6 +16,8 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 # News!
 
+**[2022/09/19]** Added new chapter "[conferences](#conferences)", and more latest conference papers (including NeurIPS, ICLR, AAAI, KDD, CVPR, ICML, IJCAI, etc.) in the field of AI+bioinformatics will be included.
+
 **[2022/08/28]** Project begining.
 
 
@@ -31,7 +33,7 @@ This repository is an ongoing project, and we welcome more collaborators to join
     - drug-drug-interaction (DDI)
     - molecular docking
 - multi-modal learning
-- conferences
+- [conferences](#conferences)
   - [NeurIPS 2022](#NeurIPS-2022)
 
 
@@ -50,4 +52,4 @@ This repository is an ongoing project, and we welcome more collaborators to join
 # conferences
 
 ## NeurIPS 2022
-[Clink this for whole list.](./conferences/NeurIPS-2022.md)
+[Clink this for whole list.](conferences/NeurIPS-2022.md)
