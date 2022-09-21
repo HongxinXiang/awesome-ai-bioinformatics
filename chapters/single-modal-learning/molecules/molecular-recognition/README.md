@@ -74,7 +74,7 @@
 
 [**Qian's model**] Robust Molecular Image Recognition: A Graph Generation Approach (*arXiv* 2022) [[Paper](https://arxiv.org/abs/2205.14311)]
 
-![](C:\Users\Programmer Dong\AppData\Roaming\Typora\typora-user-images\image-20220921170238227.png)
+![Qian](chapters/single-modal-learning/molecules/molecular-recognition/Qian.png)
 
 ---
 
