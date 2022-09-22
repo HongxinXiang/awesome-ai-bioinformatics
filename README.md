@@ -28,8 +28,9 @@ This repository is an ongoing project, and we welcome more collaborators to join
   - [molecules](#molecules)
     - [molecular property prediction](#molecular-property-prediction)
     - molecular conformation generation
-    - molecular generation and optimization
+    - [molecular generation and optimization](#molecular-generation-and-optimization)
     - molecular synthesis and retrosynthesis
+    - [molecular structure recognition](#molecular-structure-recognition)
     - drug-drug-interaction (DDI)
     - molecular docking
 - multi-modal learning
@@ -46,6 +47,18 @@ This repository is an ongoing project, and we welcome more collaborators to join
 ![Alt](./chapters/single-modal-learning/molecules/molecular-property-prediction/mindmap-mpp.png)
 
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-property-prediction)
+
+### molecular generation and optimization
+
+[Please click for more information.](chapters/single-modal-learning/molecules/molecular-generation-and-optimization)
+
+### molecular structure recognition
+
+![msr](./chapters/single-modal-learning/molecules/molecular-structure-recognition/mindmap-msr.png)
+
+[Please click for more information.](chapters/single-modal-learning/molecules/molecular-structure-recognition)
+
+
 
 # multi-modal learning
 
