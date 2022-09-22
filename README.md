@@ -49,7 +49,7 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-property-prediction)
 
-## molecular conformation generation
+### molecular conformation generation
 
 ![Alt](./chapters/single-modal-learning/molecules/molecular-conformer-generation/mindmap-mcg.png)
 
