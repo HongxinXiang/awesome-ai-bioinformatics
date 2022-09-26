@@ -14,9 +14,9 @@
 
 [**DESERT**] Zero-Shot 3D Drug Design by Sketching and Generating (Poster) [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=54457)]
 
-[**ComENet**] ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs (Poster) [[arXiv](https://arxiv.org/abs/2206.08515)] [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=52940)]
+[**ComENet**] ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs (Poster) [[arXiv](https://arxiv.org/abs/2206.08515)] [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=52940)] [[Code](https://github.com/divelab/DIG)]
 
-[**MoleOOD**] Learning Substructure Invariance for Out-of-Distribution Molecular Representations (Poster) [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=55440)] [[Code](https://github.com/divelab/DIG)]
+[**MoleOOD**] Learning Substructure Invariance for Out-of-Distribution Molecular Representations (Poster) [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=55440)]
 
 [**Graphein**] Graphein - a Python Library for Geometric Deep Learning and Network Analysis on Biomolecular Structures and Interaction Networks (Poster) [[OpenReview](https://openreview.net/pdf?id=nNof5wC9kD)] [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=52852)] [[Code](https://anonymous.4open.science/r/graphein-3472/README.md)]
 
