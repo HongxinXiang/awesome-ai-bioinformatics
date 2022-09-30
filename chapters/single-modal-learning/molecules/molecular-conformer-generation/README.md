@@ -38,6 +38,8 @@ The detail information of the benchmark is referred from "Zhu J ,  Xia Y ,  Liu 
 
 # Direct generation methods
 
+[**CoarseGrainingVAE**] Generative Coarse-Graining of Molecular Conformations (*arXiv*, 2022) \[[Paper](https://arxiv.org/abs/2201.12176v1)] [[Code](https://github.com/wwang2/CoarseGrainingVAE)]
+
 [**DMCG**] Direct Molecular Conformation Generation (*arXiv*, 2022) \[[Paper](https://arxiv.org/abs/2202.01356)] [[Code](https://github.com/DirectMolecularConfGen/DMCG)]
 
 [**GEODIFF**] GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation (*ICLR*, 2022) \[[Paper](https://arxiv.org/abs/2203.02923)] [[Code](https://github.com/MinkaiXu/GeoDiff)]
