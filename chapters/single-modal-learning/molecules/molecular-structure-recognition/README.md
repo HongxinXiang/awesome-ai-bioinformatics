@@ -2,6 +2,8 @@
 
 # 1. Datasets
 
+[**CEDe**] CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition (*NeurIPS Workshop* 2022) [[Paper](https://openreview.net/pdf?id=9K-8l0WgSK3)] [[Dataset URL](https://storage.googleapis.com/lgcede/CEDe_dataset_v0.2.tar.gz)]
+
 # 2. Algorithm
 
 ## 2.1  Rule-based methods
@@ -64,9 +66,7 @@
 
 [**Yoo's model**] Image-to-Graph Transformers for Chemical Structure Recognition (*ICASSP* 2022) [[Paper](https://ieeexplore.ieee.org/abstract/document/9746088)] 
 
----
 
-CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition
 
 # 3. Review
 
