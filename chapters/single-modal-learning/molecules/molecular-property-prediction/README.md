@@ -43,6 +43,7 @@
 # 2. Reviews
 
 Applications of deep learning in molecule generation and molecular property prediction (*Accounts of chemical research*, 2020) \[[Paper](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00699?casa_token=He80jSXBH1EAAAAA%3AIS84emvMhUFXx4Q-Klpfi1WxJBWDL_4UvzqnmjeOCSrO9mWxcFRLzdaSZ0Y4iLm3A4IqQFKT1bAyCo7O)]
+
 Deep learning methods for molecular representation and property prediction (*Drug Discovery Today*, 2022) \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S135964462200366X?via%3Dihub)]
 
 
