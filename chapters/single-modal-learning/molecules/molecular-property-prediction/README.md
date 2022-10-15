@@ -88,6 +88,8 @@ Deep learning methods for molecular representation and property prediction (*Dru
 
 [**ATMOL**] Attention-wise masked graph contrastive learning for predicting molecular property (*BIB* 2022) \[[Paper] (https://arxiv.org/pdf/2206.08262)] \[[Code](https://github.com/moen-hyb/ATMOL)\] \[[Chinese blog] (https://blog.csdn.net/qq_45331246/article/details/127182918?spm=1001.2014.3001.5501)]
 
+[**ATMOL**] Attention-wise masked graph contrastive learning for predicting molecular property (*BIB* 2022) \[[Paper](https://arxiv.org/pdf/2206.08262)] \[[Code]([https://github.com/tencent-ailab/grover](https://github.com/moen-hyb/ATMOL))\] \[[Chinese blog] (https://blog.csdn.net/qq_45331246/article/details/127182918?spm=1001.2014.3001.5501)]
+
 
 
 ## 3.4 Image-based
