@@ -86,6 +86,8 @@ Deep learning methods for molecular representation and property prediction (*Dru
 
 [**GROVER**] Self-Supervised Graph Transformer on Large-Scale Molecular Data (*NeurIPS* 2020) \[[Paper](https://proceedings.neurips.cc/paper/2020/hash/94aef38441efa3380a3bed3faf1f9d5d-Abstract.html)] \[[Code](https://github.com/tencent-ailab/grover)\]
 
+[**ATMOL**] Attention-wise masked graph contrastive learning for predicting molecular property (*BIB* 2022) \[[Paper] (https://arxiv.org/pdf/2206.08262)] \[[Code](https://github.com/moen-hyb/ATMOL)\] \[[Chinese blog] (https://blog.csdn.net/qq_45331246/article/details/127182918?spm=1001.2014.3001.5501)]
+
 
 
 ## 3.4 Image-based
@@ -106,7 +108,7 @@ Deep learning methods for molecular representation and property prediction (*Dru
 
 ## 4.2 unified training
 
-Unified 2D and 3D Pre-Training of Molecular Representations (*KDD 2022*) \[[Paper](https://arxiv.org/abs/2207.08806)] \[[Code](https://github.com/teslacool/UnifiedMolPretrain)\]\[[Chinese blog](https://zhuanlan.zhihu.com/p/544133918)]
+Unified 2D and 3D Pre-Training of Molecular Representations (*KDD 2022*) \[[Paper](https://arxiv.org/abs/2207.08806)] \[[Code](https://github.com/teslacool/UnifiedMolPretrain)\] \[[Chinese blog](https://zhuanlan.zhihu.com/p/544133918)]
 
 
 
