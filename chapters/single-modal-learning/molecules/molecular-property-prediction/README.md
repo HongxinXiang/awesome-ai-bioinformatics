@@ -100,6 +100,8 @@ Deep learning methods for molecular representation and property prediction (*Dru
 
 [**DMP**] Dual-view Molecule Pre-training (*arXiv* 2021) \[[Paper](https://arxiv.org/abs/2106.10234)] \[[Code](https://github.com/microsoft/DVMP)\]
 
+[**MM-Deacon**] Multilingual Molecular Representation Learning via Contrastive Pre-training (*ACL* 2022) \[[Paper](https://arxiv.org/abs/2109.08830)] \[[Chinese blog](https://blog.csdn.net/qq_45331246/article/details/127193173?spm=1001.2014.3001.5501)]
+
 
 
 ## 4.2 unified training
