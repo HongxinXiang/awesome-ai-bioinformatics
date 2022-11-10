@@ -3,7 +3,7 @@
 
 * [ZINC](http://zinc15.docking.org/): 736M Compounds.
 * [ChEMBL](https://www.ebi.ac.uk/chembl/): 23M Compounds, 197M Activities.
-* [QM9](http://quantum-machine.org/datasets/):
+* [QM9](http://quantum-machine.org/datasets/): 133,885 Compounds.
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/): 112M Compounds, 296M Bioactivities.
 
 
@@ -11,8 +11,10 @@
 
 ## 2.1 Molecular generation Methods
 
-### 2.1.1 VAE-based
-+ SMILES
+### 2.1.1  Variational autoencoders (VAEs)
+**SMILES**
+
+---
 
 [**GVAE**] Grammar variational autoencoder.(*ICML* 2017)\[[Paper](https://arxiv.org/pdf/1703.01925.pdf)] \[[Code](https://github.com/mkusner/grammarVAE)\]
 
@@ -20,21 +22,23 @@
 
 [**SD-VAE**] Syntax-directed variational autoencoder for molecule generation (*ICLR* 2018)\[[Paper](https://hanjun-dai.github.io/pdf/sdvae_workshop_camera_ready.pdf)] \[[Code](https://github.com/Hanjun-Dai/sdvae)\]
 
-+ Graph
+**Graph**
 
-[**JT-VAE**] Junction tree variational autoencoder for molecular graph generation (*ICML* 2018) \[[Paper](https://arxiv.org/pdf/1802.04364.pdf)] \[[Code](https://github.com/wengong-jin/icml18-jtnn)\]
+---
 
 [**GraphVAE**] Graphvae: Towards generation of small graphs using variational autoencoders.(*ICANN* 2018) \[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-01418-6_41)]
 
 [**CGVAE**] Constrained graph variational autoencoders for molecule design (*NeurIPS* 2018) \[[Paper](https://proceedings.neurips.cc/paper/2018/file/b8a03c5c15fcfa8dae0b03351eb1742f-Paper.pdf)] \[[Code](https://github.com/Microsoft/constrained-graph-variational-autoencoder)\]
 
-[**RationaleRL**] Multi-objective molecule generation using interpretable substructures (*ICML* 2020) \[[Paper](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)] \[[Code](https://github.com/wengong-jin/multiobj-rationale)\]
+[**JT-VAE**] Junction tree variational autoencoder for molecular graph generation (*ICML* 2018) \[[Paper](https://arxiv.org/pdf/1802.04364.pdf)] \[[Code](https://github.com/wengong-jin/icml18-jtnn)\]
 
 [**NEVAE**] NEVAE: A deep generative model for molecular graphs (*AAAI* 2020) \[[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/3903)] \[[Code](https://github.com/Networks-Learning/nevae)\]
 
 
-### 2.1.2 RNN-based
-+ SMILES
+### 2.1.2  Recurrent neural networks (RNNs)
+**SMILES**
+
+---
 
 [**Segler's model**] Generating focused molecule libraries for drug discovery with recurrent neural networks (*ACS Cent. Sci.* 2018)\[[Paper](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00512)]
 
@@ -46,7 +50,9 @@
 
 [**Scaffold Decorator**] SMILES-based deep generative scaffold decorator for de-novo drug design. (*J. Cheminform.* 2020)\[[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00441-8)] \[[Code](https://github.com/undeadpixel/reinvent-scaffold-decorator)\]
 
-+ Graph
+**Graph**
+
+---
 
 [**Li's model**] Learning deep generative models of graphs (*ICLR* 2018) \[[Paper](https://arxiv.org/pdf/1803.03324.pdf)]
 
@@ -55,8 +61,10 @@
 [**MolecularRNN**] MolecularRNN: Generating realistic molecular graphs with optimized properties (*arXiv* 2019) \[[Paper](https://arxiv.org/pdf/1905.13372.pdf)]
 
 
-### 2.1.3 GAN-based
-+ SMILES
+### 2.1.3  Generative adversarial networks (GANs)
+**SMILES**
+
+---
 
 [**ORGAN**] Objective-reinforced generative adversarial networks (ORGAN) for sequence generation models (*arXiv* 2017)\[[Paper](https://arxiv.org/pdf/1705.10843.pdf)] \[[Code](https://github.com/gablg1/ORGAN)\]
 
@@ -66,14 +74,16 @@
 
 [**stacked GAN**] De novo generation of hit-like molecules from gene expression signatures using artificial intelligence. (*Nat. Commun.* 2020)\[[Paper](https://www.nature.com/articles/s41467-019-13807-w)]
 
-+ Graph
+**Graph**
+
+---
 
 [**MolGAN**] MolGAN: An implicit generative model for smallmolecular graphs (*ICML workshop* 2018) \[[Paper](https://arxiv.org/pdf/1805.11973.pdf)] \[[Code](https://github.com/nicola-decao/MolGAN)\]
 
 [**Mol-CycleGAN**] Mol-CycleGAN: a generative model for molecular optimization (*J. Cheminform.* 2020) \[[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1)] \[[Code](https://github.com/ardigen/mol-cycle-gan)\]
 
 
-### 2.1.4 Flow-based
+### 2.1.4 Flow
 [**GraphNVP**] GraphNVP: An invertible flow model for generating molecular graphs (*arXiv* 2019) \[[Paper](https://arxiv.org/pdf/1905.11600.pdf)] \[[Code](https://github.com/pfnet-research/graph-nvp)\]
 
 [**GRF**] Graph residual flow for molecular graph generation (*arXiv* 2019) \[[Paper](https://arxiv.org/pdf/1909.13521.pdf)]
@@ -84,8 +94,73 @@
 
 [**MolGrow**] MolGrow: A graph normalizing flow for hierarchical molecular generation (*AAAI* 2021) \[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-3802.KuznetsovM.pdf)]
 
-
 ## 2.2 Molecular optimization Methods
+
+### 2.2.1  Genetic Algorithm (GA)
+
+**String-based**
+
+---
+
+[**Nigam's model**] Augmenting genetic algorithms with deep neural networks for exploring the chemical space (*ICLR* 2020) [[Paper](https://arxiv.org/abs/1909.11655)] [[Code](https://github.com/aspuru-guzik-group/GA)]
+
+[STONED] Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES (*Chem. Sci.* 2021) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc00231g)] [[Code](https://github.com/aspuru-guzik-group/stoned-selfies)]
+
+**Graph-based**
+
+---
+
+[GB-GA] A graph-based genetic algorithm and generative model/monte carlo tree search for the exploration of chemical space (*Chem. Sci.* 2019) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8sc05372c)] [[Code]()]
+
+### 2.2.2 Monte-Carlo Tree Search (MCTS)
+
+[GB-GM-MCTS] A graph-based genetic algorithm and generative model/monte carlo tree search for the exploration of chemical space (*Chem. Sci.* 2019) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c8sc05372c)] [[Code]()]
+
+### 2.2.3 Bayesian optimization (BO)
+
+[BOSS] BOSS: Bayesian optimization over string spaces (*Advances in neural information processing systems* 2020) [[Paper](https://proceedings.neurips.cc/paper/2020/hash/b19aa25ff58940d974234b48391b9549-Abstract.html)] [[Code](https://github.com/henrymoss/BOSS)]
+
+[GPBO] A fresh look at de novo molecular design benchmarks (*NeurIPS Workshop* 2021) [[Paper](https://openreview.net/pdf?id=gS3XMun4cl_)] [[Code](https://github.com/AustinT/ai4sci-2021-denovo-benchmarks/)]
+
+### 2.2.4 Score-based modeling (SBM)
+
+[GFlowNet] GFlowNet foundations (2021)
+
+[MARS] MARS: Markov molecular sampling for multi-objective drug discovery (*ICLR* 2021)
+
+### 2.2.5 Hill climbing (HC)
+
+[SMILES LSTM] GuacaMol: benchmarking models for de novo molecular design (*Journal ofchemical information and modeling* 2019)
+
+[SELFIES LSTM]
+
+[MIMOSA] MIMOSA: Multi-constraint molecule sampling for molecule optimization (*AAAI* 2021)
+
+### 2.2.6 Reinforcement learning (RL)
+
+**String-based**
+
+---
+
+[REINVENT] Molecular de-novo design through deep reinforcement learning (*Journal ofcheminformatics* 2017)
+
+**Graph-based**
+
+---
+
+[MolDQN] Optimization of molecules via deep reinforcement learning (*Scientific reports* 2019)
+
+[GCPN] Graph convolutional policy network for goal-directed molecular graph generation (*Advances in neural information processing systems* 2018)
+
+[**RationaleRL**] Multi-objective molecule generation using interpretable substructures (*ICML* 2020) \[[Paper](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)] \[[Code](https://github.com/wengong-jin/multiobj-rationale)\]
+
+[FREED] Hit and lead discovery with explorative rl and fragment-based molecule generation (*Advances in Neural Information Processing Systems* 2021)
+
+### 2.2.7 Gradient ascent (GRAD)
+
+[Pasithea] Deep molecular dreaming: Inverse machine learning for de-novo molecular design and interpretability with surjective representations (*Machine Learning: Science and Technology* 2021)
+
+[DST] Differentiable scaffolding tree for molecular optimization (*International Conference on Learning Representations* 2022)
 
 
 # 3. Metrics
@@ -96,5 +171,9 @@
 + quantitative estimate of drug-likeness (QED)
 + synthetic accessibility (SA)
 
-# 5. Strategies
-valency-based rejection sampling: ensure molecular validility
+# 5. Reviews
+
+Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization () [[Paper]()]
+
+
+
