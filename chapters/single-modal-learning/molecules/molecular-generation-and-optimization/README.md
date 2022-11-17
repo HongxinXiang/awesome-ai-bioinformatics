@@ -33,7 +33,9 @@
 [**NEVAE**] NEVAE: A deep generative model for molecular graphs (AAAI 2020) \[[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/3903)] \[[Code](https://github.com/Networks-Learning/nevae)\]
 
 
+
 ### 2.1.2 RNN-based
+
 + SMILES
 
 [**Segler's model**] Generating focused molecule libraries for drug discovery with recurrent neural networks (ACS Cent. Sci. 2018)\[[Paper](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00512)]
@@ -55,7 +57,9 @@
 [**MolecularRNN**] MolecularRNN: Generating realistic molecular graphs with optimized properties (arXiv 2019) \[[Paper](https://arxiv.org/pdf/1905.13372.pdf)]
 
 
+
 ### 2.1.3 GAN-based
+
 + SMILES
 
 [**ORGAN**] Objective-reinforced generative adversarial networks (ORGAN) for sequence generation models (arXiv 2017)\[[Paper](https://arxiv.org/pdf/1705.10843.pdf)] \[[Code](https://github.com/gablg1/ORGAN)\]
@@ -73,7 +77,9 @@
 [**Mol-CycleGAN**] Mol-CycleGAN: a generative model for molecular optimization (J. Cheminform. 2020) \[[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1)] \[[Code](https://github.com/ardigen/mol-cycle-gan)\]
 
 
+
 ### 2.1.4 Flow-based
+
 [**GraphNVP**] GraphNVP: An invertible flow model for generating molecular graphs (arXiv 2019) \[[Paper](https://arxiv.org/pdf/1905.11600.pdf)] \[[Code](https://github.com/pfnet-research/graph-nvp)\]
 
 [**GRF**] Graph residual flow for molecular graph generation (arXiv 2019) \[[Paper](https://arxiv.org/pdf/1909.13521.pdf)]
@@ -83,6 +89,22 @@
 [**MoFlow**] MoFlow: an invertible flow model for generating molecular graphs (KDD 2020) \[[Paper](https://arxiv.org/pdf/2006.10137.pdf)] \[[Code](https://github.com/calvin-zcx/moflow)\]
 
 [**MolGrow**] MolGrow: A graph normalizing flow for hierarchical molecular generation (AAAI 2021) \[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-3802.KuznetsovM.pdf)]
+
+
+
+### 2.1.5 Diffusion-based
+
+[**DiffSBDD**] Structure-based Drug Design with Equivariant Diffusion Models (arXiv 2022) \[[Paper](https://arxiv.org/abs/2210.13695)] \[[Code](https://github.com/arneschneuing/DiffSBDD)\]
+
+[**MDM**] MDM: Molecular Diffusion Model for 3D Molecule Generation (arXiv 2022) \[[Paper](https://arxiv.org/abs/2209.05710)]
+
+[**Bridge**] Diffusion-based Molecule Generation with Informative Prior Bridges (NeurIPS 2022) [[arXiv](https://arxiv.org/abs/2209.00865)] [[Paper](https://nips.cc/Conferences/2022/Schedule?showEvent=54485)]
+
+[**GDSS**] Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations (ICML 2022) \[[Paper](https://proceedings.mlr.press/v162/jo22a.html)] \[[Code](https://github.com/harryjo97/GDSS/)\]
+
+[**EDM**] Equivariant Diffusion for Molecule Generation in 3D (ICML 2022) \[[Paper](https://proceedings.mlr.press/v162/hoogeboom22a.html)] \[[Code](https://github.com/ehoogeboom/e3_diffusion_for_molecules)\]
+
+
 
 
 ## 2.2 Molecular optimization Methods
