@@ -92,7 +92,7 @@ Deep learning methods for molecular representation and property prediction (*Dru
 
 ## 3.4 Image-based
 
-
+[**ImageMol**] Accurate prediction of molecular properties and drug targets using a self-supervised image representation learning framework (*Nature Machine Intelligence*, 2022) \[[Paper](https://www.nature.com/articles/s42256-022-00557-6)] \[[Code](https://github.com/HongxinXiang/ImageMol)\] \[[Chinese blog](https://mp.weixin.qq.com/s/7LT2d0l3SucOOWZz9Z3H5A)]
 
 
 
