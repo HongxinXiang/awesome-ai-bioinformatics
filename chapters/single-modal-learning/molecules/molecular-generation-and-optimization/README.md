@@ -9,7 +9,7 @@
 
 # 2. Algorithm
 
-## 2.1 Molecular generation Methods
+## 2.1 Molecular Generation Methods
 
 ### 2.1.1 VAE-based
 + SMILES
@@ -19,6 +19,8 @@
 [**chemical VAE**] Automatic chemical design using a data-driven continuous representation of molecules (ACS Cent. Sci. 2018)\[[Paper](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00572)] \[[Code](https://github.com/aspuru-guzik-group/chemical_vae)\]
 
 [**SD-VAE**] Syntax-directed variational autoencoder for molecule generation (ICLR 2018)\[[Paper](https://hanjun-dai.github.io/pdf/sdvae_workshop_camera_ready.pdf)] \[[Code](https://github.com/Hanjun-Dai/sdvae)\]
+
+Accelerating De Novo Drug Design against Novel Proteins Using Deep Learning (JCIM 2021.01) \[[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01060)]
 
 + Graph
 
@@ -31,6 +33,8 @@
 [**RationaleRL**] Multi-objective molecule generation using interpretable substructures (ICML 2020) \[[Paper](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)] \[[Code](https://github.com/wengong-jin/multiobj-rationale)\]
 
 [**NEVAE**] NEVAE: A deep generative model for molecular graphs (AAAI 2020) \[[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/3903)] \[[Code](https://github.com/Networks-Learning/nevae)\]
+
+De Novo Structure-Based Drug Design Using Deep Learning (JCIM 2021.11) \[[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01319)]
 
 
 
@@ -76,6 +80,10 @@
 
 [**Mol-CycleGAN**] Mol-CycleGAN: a generative model for molecular optimization (J. Cheminform. 2020) \[[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1)] \[[Code](https://github.com/ardigen/mol-cycle-gan)\]
 
+- Both SMILES and Graph
+
+[**MolAICal**] MolAICal: a soft tool for 3D drug design of protein targets by artificial intelligence and classical algorithm (*Briefings in Bioinformatics*. 2021.05) \[[Paper](https://academic.oup.com/bib/article/22/3/bbaa161/5890512?login=false)] \[[Code](https://github.com/MolAICal/COVID-19/tree/master/mpro)\] \[[Software](https://molaical.github.io/)\]
+
 
 
 ### 2.1.4 Flow-based
@@ -107,7 +115,7 @@
 
 
 
-## 2.2 Molecular optimization Methods
+## 2.2 Molecular Optimization Methods
 
 
 # 3. Metrics
