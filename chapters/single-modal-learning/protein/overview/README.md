@@ -22,6 +22,8 @@ Learning functional properties of proteins with language models (*Nature Machine
 
 [**ESM-2**] Language models of protein sequences at the scale of evolution enable accurate structure prediction (*BioRxiv* 2022.10) [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2.abstract)\] \[[Code](https://github.com/facebookresearch/esm)\]
 
+[**I-TASSER-MTD**] I-TASSER-MTD: a deep-learning-based platform for multi-domain protein structure and function prediction (*Nature Protocols* 2022.08) [[paper\]](https://www.nature.com/articles/s41596-022-00728-0) \[[Code](https://zhanggroup.org/I-TASSER-MTD/)\]
+
 [**ATOMRefine**] Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks (*BioRxiv* 2022.08) [[paper\]](https://www.biorxiv.org/content/10.1101/2022.05.06.490934v2.abstract)
 
 [**Cytoself**] Self-supervised deep learning encodes high-resolution features of protein subcellular localization (*Nature Methods* 2022.07) [[Paper\]](https://www.nature.com/articles/s41592-022-01541-z) [[Code](https://github.com/royerlab/cytoself)]
@@ -45,6 +47,8 @@ Using deep learning to annotate the protein universe (**Nature Biotechnolog** 20
 
 
 ## 2021
+
+[**trRosetta**] The trRosetta server for fast and accurate protein structure prediction (*Nature protocols* 2021.11) \[[Web server](https://yanglab.nankai.edu.cn/trRosetta/)]
 
 [**PMLM**] Pre-training co-evolutionary protein representation via a pairwise masked language model (*Arxiv* 2021.10) \[[Paper](https://arxiv.org/abs/2110.15527)]
 
