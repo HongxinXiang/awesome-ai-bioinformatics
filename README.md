@@ -16,6 +16,8 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 # News!
 
+**[2022/12/01]** Added new chapter "[proteins](#proteins)".
+
 **[2022/09/22]** Added new chapter "[molecular conformation generation](#molecular-conformation-generation)".
 
 **[2022/09/19]** Added new chapter "[conferences](#conferences)", and more latest conference papers (including NeurIPS, ICLR, AAAI, KDD, CVPR, ICML, IJCAI, etc.) in the field of AI+bioinformatics will be included.
@@ -34,9 +36,11 @@ This repository is an ongoing project, and we welcome more collaborators to join
     - molecular synthesis and retrosynthesis
     - drug-drug-interaction (DDI)
     - molecular docking
+  - [proteins](#proteins)
 - multi-modal learning
 - [conferences](#conferences)
   - [NeurIPS 2022](#NeurIPS-2022)
+
 
 
 # single-modal learning
@@ -60,7 +64,16 @@ This repository is an ongoing project, and we welcome more collaborators to join
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-generation-and-optimization)
 
 
+
+## proteins
+
+[Please click for more information.](chapters/single-modal-learning/protein/overview)
+
+
+
 # multi-modal learning
+
+
 
 # conferences
 
