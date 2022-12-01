@@ -130,6 +130,8 @@ Distillation of MSA Embeddings to Folded Protein Structures with Graph Transform
 
 ## 2022
 
+[**masif-seed**] *De novo* design of site-specific protein interactions with learned surface fingerprints (*bioArxiv* 2022.06) \[[Paper](https://www.biorxiv.org/content/10.1101/2022.06.16.496402v1.abstract)] \[[Code](https://github.com/LPDI-EPFL/masif_seed)]
+
 [**PointSite**] PointSite: A Point Cloud Segmentation Tool for Identification of Protein Ligand Binding Atoms (*JCIM* 2022.05) \[[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01512)] \[[Code](https://github.com/PointSite/PointSite)]
 
 A point cloud-based deep learning strategy for protein–ligand binding affinity prediction (*Briefings in Bioinformatics* 2022.01) \[[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab474/6440132?redirectedFrom=fulltext&login=false)]
