@@ -24,9 +24,9 @@ Learning functional properties of proteins with language models (*Nature Machine
 
 [**ATOMRefine**] Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks (*BioRxiv* 2022.08) [[paper\]](https://www.biorxiv.org/content/10.1101/2022.05.06.490934v2.abstract)
 
-[**Cytoself**] Self-supervised deep learning encodes high-resolution features of protein subcellular localization (*Nature Methods* 2022.07) [[Paper\]](https://www.nature.com/articles/s41592-022-01541-z)[[Code\](https://github.com/royerlab/cytoself)]
+[**Cytoself**] Self-supervised deep learning encodes high-resolution features of protein subcellular localization (*Nature Methods* 2022.07) [[Paper\]](https://www.nature.com/articles/s41592-022-01541-z) [[Code](https://github.com/royerlab/cytoself)]
 
-[**ProtGPT2**] ProtGPT2 is a deep unsupervised language model for protein design (*Nature Communications* 2022.07) [[Paper\]](https://www.nature.com/articles/s41467-022-32007-7)[[Code\]](https://huggingface.co/docs/transformers/main_classes/trainer)
+[**ProtGPT2**] ProtGPT2 is a deep unsupervised language model for protein design (*Nature Communications* 2022.07) [[Paper\]](https://www.nature.com/articles/s41467-022-32007-7)[[Code](https://huggingface.co/docs/transformers/main_classes/trainer)]
 
 [**OmegaFold**] High-resolution de novo structure prediction from primary sequence (*BioRxiv* 2022.07) \[[Paper](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.abstract)]
 
