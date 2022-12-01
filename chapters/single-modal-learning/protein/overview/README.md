@@ -128,6 +128,14 @@ Distillation of MSA Embeddings to Folded Protein Structures with Graph Transform
 
 # Vision-based
 
+## 2022
+
+[**PointSite**] PointSite: A Point Cloud Segmentation Tool for Identification of Protein Ligand Binding Atoms (*JCIM* 2022.05) \[[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01512)] \[[Code](https://github.com/PointSite/PointSite)]
+
+A point cloud-based deep learning strategy for protein–ligand binding affinity prediction (*Briefings in Bioinformatics* 2022.01) \[[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab474/6440132?redirectedFrom=fulltext&login=false)]
+
+
+
 ## 2021
 
 [**DeepRank**] DeepRank: a deep learning framework for data mining 3D protein-protein interfaces (*Nature Communications* 2021.12) \[[Paper](https://www.nature.com/articles/s41467-021-27396-0)] \[[Code](https://github.com/DeepRank/deeprank)]
