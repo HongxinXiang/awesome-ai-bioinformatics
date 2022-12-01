@@ -106,8 +106,6 @@ Combining evolutionary and assay-labelled data for protein fitness prediction (*
 
 ## 2021
 
-****
-
 [**InteractionGraphNet**] InteractionGraphNet: A Novel and Efficient Deep Graph Representation Learning Framework for Accurate Protein−Ligand Interaction Predictions (*JMC* 2021.12) [[Paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.1c01830)] [[Code](https://github.com/zjujdj/InteractionGraphNet/tree/master)]
 
 [**nn4dms**] Neural networks to learn protein sequence–function relationships from deep mutational scanning data (*PNAS* 2021.11) [[Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2104878118)] [[Code](https://github.com/gitter-lab/nn4dms)]
