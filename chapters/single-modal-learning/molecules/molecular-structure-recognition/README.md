@@ -33,7 +33,7 @@
 
 ---
 
-[**Img2Mol**] Img2Mol - Accurate SMILES Recognition from Molecular Graphical Depictions (*Chem. Sci. 2021) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc01839f)] [[Code](https://github.com/bayer-science-for-a-better-life/Img2Mol)]
+[**Img2Mol**] Img2Mol - Accurate SMILES Recognition from Molecular Graphical Depictions (*Chem. Sci.* 2021) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc01839f)] [[Code](https://github.com/bayer-science-for-a-better-life/Img2Mol)]
 
 ----
 
@@ -51,7 +51,7 @@
 
 [**DECIMER 1.0**] DECIMER 1.0: Deep Learning for Chemical Image Recognition using Transformers (*J. Cheminform.* 2021) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8)] [[Code](https://github.com/Kohulan/DECIMER-Image_Transformer)]
 
-[**DECIMER-Segmentation**] DECIMER-Segmentation: Automated extraction of chemical structure depictions from scientific literature. (*J Cheminform* 2021) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00496-1)] [[Code](https://github.com/Kohulan/DECIMER-Image-Segmentation)]
+[**DECIMER-Segmentation**] DECIMER-Segmentation: Automated extraction of chemical structure depictions from scientific literature. (*J. Cheminform.* 2021) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00496-1)] [[Code](https://github.com/Kohulan/DECIMER-Image-Segmentation)]
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-[**SwinOCSR**] SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer (*J Cheminform* 2022) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5)] [[Code](https://github.com/suanfaxiaohuo/SwinOCSR/tree/main)]
+[**SwinOCSR**] SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer (*J. Cheminform.* 2022) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5)] [[Code](https://github.com/suanfaxiaohuo/SwinOCSR/tree/main)]
 
 ---
   
