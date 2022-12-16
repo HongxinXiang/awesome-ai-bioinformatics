@@ -1,20 +1,29 @@
 ![Alt](./mindmap-msr.png)
 
-# 1. Datasets
+# 1. Data
 
+# 1.1 Datasets
 [**CEDe**] CEDe: A collection of expert-curated datasets with atom-level entity annotations for Optical Chemical Structure Recognition (*NeurIPS Workshop* 2022) [[Paper](https://openreview.net/pdf?id=9K-8l0WgSK3)] [[Dataset URL](https://storage.googleapis.com/lgcede/CEDe_dataset_v0.2.tar.gz)]
+
+[**DECIMER**] DECIMER—hand-drawn molecule images dataset (*J. Cheminform.* 2022) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)] [[Dataset URL](https://zenodo.org/record/6456306)]
+
+
+##  1.2 Data depiction methods
+
+[**RanDepict**] RanDepict: Random chemical structure depiction generator (*J. Cheminform.* 2022) [[Paper](https://link.springer.com/article/10.1186/s13321-022-00609-4)]
+
 
 # 2. Algorithm
 
 ## 2.1  Rule-based methods
 
-| Name      | Programming language | Open-Source | Link                                                         |
-| --------- | -------------------- | ----------- | ------------------------------------------------------------ |
-| CliDE Pro | C++                  | No          | [[Software](http://www.keymodule.co.uk/products/clide/clide-pro.html)] |
-| ChemOCR   | Java                 | No          | [[Software](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/products/chemocr.html)] |
+| Name      | Programming language | Open-Source | Link                                                                                                                                                                                                          |
+| --------- | -------------------- | ----------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CliDE Pro | C++                  | No          | [[Software](http://www.keymodule.co.uk/products/clide/clide-pro.html)] \[[Paper](https://pubs.acs.org/doi/abs/10.1021/ci800449t)]                                                                             |
+| ChemOCR   | Java                 | No          | [[Software](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/products/chemocr.html)]                                                                                                  |
 | OSRA      | C++                  | Yes         | [[Paper](https://pubs.acs.org/doi/10.1021/ci800067r)] \[[Code](https://github.com/metamolecular/osra)] \[[Web](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)] [[Home](https://cactus.nci.nih.gov/osra/)] |
-| Imago     | C++                  | Yes         | [[Paper](https://trec.nist.gov/pubs/trec20/papers/GGA.chemical.pdf)] \[[Code](https://github.com/ctrltz/ocsr-project)] \[[Home](https://lifescience.opensource.epam.com/imago/)] |
-| MolVec    | Java                 | Yes         | [[Code](https://github.com/ncats/molvec)]        |
+| Imago     | C++                  | Yes         | [[Paper](https://trec.nist.gov/pubs/trec20/papers/GGA.chemical.pdf)] \[[Code](https://github.com/ctrltz/ocsr-project)] \[[Home](https://lifescience.opensource.epam.com/imago/)]                              |
+| MolVec    | Java                 | Yes         | [[Code](https://github.com/ncats/molvec)]                                                                                                                                                                     |
 
 
 
@@ -46,7 +55,7 @@
 
 ---
 
-[**ABC-Net**] ABC-Net: a divide-and-conquer based deep learning architecture for SMILES recognition from molecular images (*Briefings in Bioinformatics* 2022) [[Paper]()] [[Code](https://github.com/zhang-xuan1314/ABC-Net)]
+[**ABC-Net**] ABC-Net: a divide-and-conquer based deep learning architecture for SMILES recognition from molecular images (*Briefings in Bioinformatics* 2022) [[Paper](https://doi.org/10.1093/bib/bbac033)] [[Code](https://github.com/zhang-xuan1314/ABC-Net)]
 
 [**MICER**] MICER: a pre-trained encoder–decoder architecture for molecular image captioning (*Bioinformatics* 2022) [[Paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac545/6656348)] [[Code](https://github.com/Jiacai-Yi/MICER)]
 
@@ -55,7 +64,7 @@
 [**SwinOCSR**] SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer (*J Cheminform* 2022) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5)] [[Code](https://github.com/suanfaxiaohuo/SwinOCSR/tree/main)]
 
 ---
-
+  
 [**Qian's model**] Robust Molecular Image Recognition: A Graph Generation Approach (*arXiv* 2022) [[Paper](https://arxiv.org/abs/2205.14311)]
 
 ---
@@ -71,3 +80,5 @@
 # 3. Review
 
 A review of optical chemical structure recognition tools (*J. Cheminform.* 2020) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00465-0)]
+
+Review of techniques and models used in optical chemical structure recognition in images and scanned documents (*J. Cheminform.* 2022) [[Paper](https://link.springer.com/article/10.1186/s13321-022-00642-3)]
