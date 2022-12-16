@@ -54,9 +54,9 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 ### molecular structure recognition
 
-![msr](./chapters/single-modal-learning/molecules/molecular-structure-recognition/mindmap-msr.png)
+![msr](chapters/single-modal-learning/molecules/optical-chemical-structure-recognition/mindmap-ocsr.png)
 
-[Please click for more information.](chapters/single-modal-learning/molecules/molecular-structure-recognition)
+[Please click for more information.](chapters/single-modal-learning/molecules/optical-chemical-structure-recognition)
 
 
 

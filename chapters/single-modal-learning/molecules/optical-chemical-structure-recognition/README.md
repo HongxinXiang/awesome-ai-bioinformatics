@@ -1,4 +1,4 @@
-![Alt](./mindmap-msr.png)
+![Alt](./mindmap-ocsr.png)
 
 # 1. Data
 
