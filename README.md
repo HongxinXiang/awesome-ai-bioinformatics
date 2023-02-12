@@ -16,6 +16,10 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 # News!
 
+**[2022/12/01]** Added new chapter "[proteins](#proteins)".
+
+**[2022/09/22]** Added new chapter "[molecular conformation generation](#molecular-conformation-generation)".
+
 **[2022/09/19]** Added new chapter "[conferences](#conferences)", and more latest conference papers (including NeurIPS, ICLR, AAAI, KDD, CVPR, ICML, IJCAI, etc.) in the field of AI+bioinformatics will be included.
 
 **[2022/08/28]** Project begining.
@@ -27,15 +31,16 @@ This repository is an ongoing project, and we welcome more collaborators to join
 - [single-modal learning](#single-modal-learning)
   - [molecules](#molecules)
     - [molecular property prediction](#molecular-property-prediction)
-    - molecular conformation generation
+    - [molecular conformation generation](#molecular-conformation-generation)
     - [molecular generation and optimization](#molecular-generation-and-optimization)
     - molecular synthesis and retrosynthesis
-    - [molecular structure recognition](#molecular-structure-recognition)
     - drug-drug-interaction (DDI)
     - molecular docking
+  - [proteins](#proteins)
 - multi-modal learning
 - [conferences](#conferences)
   - [NeurIPS 2022](#NeurIPS-2022)
+
 
 
 # single-modal learning
@@ -48,21 +53,32 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-property-prediction)
 
-### molecular generation and optimization
+### molecular conformation generation
 
+![Alt](./chapters/single-modal-learning/molecules/molecular-conformer-generation/mindmap-mcg.png)
+
+
+[Please click for more information.](chapters/single-modal-learning/molecules/molecular-conformer-generation)
+
+### molecular generation and optimization
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-generation-and-optimization)
 
-### molecular structure recognition
 
-![msr](chapters/single-modal-learning/molecules/optical-chemical-structure-recognition/mindmap-ocsr.png)
 
-[Please click for more information.](chapters/single-modal-learning/molecules/optical-chemical-structure-recognition)
+## proteins
+
+[Please click for more information.](chapters/single-modal-learning/protein/overview)
 
 
 
 # multi-modal learning
 
+
+
 # conferences
 
 ## NeurIPS 2022
 [Clink this for whole list.](conferences/NeurIPS-2022.md)
+
+# Tutorials
+[Clink this for whole list.](tutorials/README.md)
