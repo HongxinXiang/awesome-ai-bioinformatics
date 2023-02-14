@@ -9,7 +9,7 @@
 
 # 2. Algorithm
 
-## 2.1 Molecular generation Methods
+## 2.1 Molecular Generation Methods
 
 ### 2.1.1  Variational autoencoders (VAEs)
 **> SMILES-based**
@@ -72,6 +72,7 @@
 [**MolGAN**] MolGAN: An implicit generative model for smallmolecular graphs (*ICML workshop* 2018) [[Paper](https://arxiv.org/pdf/1805.11973.pdf)]  [[Code](https://github.com/nicola-decao/MolGAN)]
 
 [**Mol-CycleGAN**] Mol-CycleGAN: a generative model for molecular optimization (*J. Cheminform.* 2020) [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1)] [[Code](https://github.com/ardigen/mol-cycle-gan)]
+
 
 
 ### 2.1.4 Flow
