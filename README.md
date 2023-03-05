@@ -28,18 +28,22 @@ This repository is an ongoing project, and we welcome more collaborators to join
 
 # Table of Contents
 
-- [single-modal learning](#single-modal-learning)
-  - [molecules](#molecules)
-    - [molecular property prediction](#molecular-property-prediction)
-    - [molecular conformation generation](#molecular-conformation-generation)
-    - [molecular generation and optimization](#molecular-generation-and-optimization)
+- [tutorials](tutorials/README.md)
+- single-modal learning
+  - [molecules](chapters/single-modal-learning/molecules)
+    - [molecular property prediction](chapters/single-modal-learning/molecules/molecular-property-prediction)
+    - [molecular conformation generation](chapters/single-modal-learning/molecules/molecular-conformer-generation)
+    - [molecular generation and optimization](chapters/single-modal-learning/molecules/molecular-generation-and-optimization)
     - molecular synthesis and retrosynthesis
     - drug-drug-interaction (DDI)
     - molecular docking
-  - [proteins](#proteins)
+  - [proteins](chapters/single-modal-learning/protein/)
+    - [tasks and datasets](chapters/single-modal-learning/protein)
+    - [methods](chapters/single-modal-learning/protein/overview)
 - multi-modal learning
 - [conferences](#conferences)
-  - [NeurIPS 2022](#NeurIPS-2022)
+  - [NeurIPS 2022](conferences/NeurIPS-2022.md)
+  - [ICLR 2023](conferences/ICLR-2023.md)
 
 
 
@@ -56,7 +60,6 @@ This repository is an ongoing project, and we welcome more collaborators to join
 ### molecular conformation generation
 
 ![Alt](./chapters/single-modal-learning/molecules/molecular-conformer-generation/mindmap-mcg.png)
-
 
 [Please click for more information.](chapters/single-modal-learning/molecules/molecular-conformer-generation)
 
